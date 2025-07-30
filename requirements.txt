@@ -1,8 +1,5 @@
-fastapi
-pydantic
-typing
-json
-asyncio
-chatlas
-requests
-time
+fastapi>=0.115.0
+uvicorn>=0.35.0
+chatlas>=0.9.0
+requests>=2.32.0
+pydantic>=2.10.0
