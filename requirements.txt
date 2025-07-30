@@ -1,0 +1,8 @@
+fastapi
+pydantic
+typing
+json
+asyncio
+chatlas
+requests
+time
